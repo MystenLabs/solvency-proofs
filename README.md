@@ -18,14 +18,14 @@ This repository aims at tracking and enlisting:
         - illiquid assets
   - **proofs of solvency**: the combined outcome of the above two, including absolute, fractional or with a surplus solvency expectations. 
 - useful cryptographic primitives:
-  - Zero-Knowledge Proof systems and related gadgets
-  - Merkle trees (including sparse trees)
-  - Random sampling algorithms
-  - Private Information Retrieval (to avoid tracking who verifies proofs)
+  - **Zero-Knowledge Proof** systems and related gadgets
+  - **Merkle trees** (including sparse trees)
+  - **Random sampling algorithms**
+  - **Private Information Retrieval** (to avoid tracking re who verifies proofs)
 - repository links with implementations for any of the above algorithms / solutions
 - official audit reports
 - links to official solvency reports from various exchanges 
 - list of Exchanges, Oracles and Auditors and Organizations that work on (provide) solvency proofs solutions.
 - interesting news-posts or social network threads and posts (Reddit, Twitter, LinkedIn etc)
 - other educational material, including podcasts and blogposts
-- list of known attacks or insolvent cases
+- list of known attacks or insolvent cases.
