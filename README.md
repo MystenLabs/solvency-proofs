@@ -1,6 +1,6 @@
 # solvency-proofs
 
-### New updates:
+### Latest updates:
 - Dec 1st, 2022: audit report for Binance's Proof of Reserve's solution has been uploaded. TL;DR 4 vulnerabilities and 3 other privacy, trust and optimization issues have been reported. See the full report [here](/audits/audit_reports/Binance_PoR_by_MystenLabs_Nov_28_2022.pdf).
   - Binance is already working with their auditor and cryptography experts to address feedback and they try to improve in the subsequent versions of their PoR system.
 
@@ -22,10 +22,10 @@ This repository aims at tracking and enlisting:
   - **Merkle trees** (including sparse trees)
   - **Random sampling algorithms**
   - **Private Information Retrieval** (to avoid tracking re who verifies proofs)
-- repository links with implementations for any of the above algorithms / solutions
-- official audit reports
-- links to official solvency reports from various exchanges 
-- list of Exchanges, Oracles and Auditors and Organizations that work on (provide) solvency proofs solutions.
-- interesting news-posts or social network threads and posts (Reddit, Twitter, LinkedIn etc)
-- other educational material, including podcasts and blogposts
-- list of known attacks or insolvent cases.
+- repository **links with implementations** for any of the above algorithms / solutions
+- official **audit reports**
+- links to **official solvency reports** from various exchanges 
+- list of **Exchanges, Oracles and Auditors and Organizations that work on (provide) solvency** proofs solutions.
+- interesting **news-posts or social network threads** and posts (Reddit, Twitter, LinkedIn etc)
+- other **educational material**, including podcasts and blogposts
+- list of **known attacks or insolvent cases**.
