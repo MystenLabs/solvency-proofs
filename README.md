@@ -1,5 +1,9 @@
 # solvency-proofs
 
+### New updates:
+- Dec 1st, 2022: audit report for Binance's Proof of Reserve's solution has been uploaded. TL;DR 4 vulnerabilities and 3 other privacy, trust and optimization issues have been reported. See the full report [here](/audits/audit_reports/Binance_PoR_by_MystenLabs_Nov_28_2022.pdf).
+
+## Goal
 This repository aims at tracking and enlisting:
 - cryptographic schemes for proofs of solvency applied to centralized exchanges, wrapped coins, custodians etc. These schemes typically include: 
   - **proofs of liabilities**: proving the total value the prover owes to all of its customers or creditors.
