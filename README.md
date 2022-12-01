@@ -25,7 +25,7 @@ This repository aims at tracking and enlisting:
 - repository **links with implementations** for any of the above algorithms / solutions
 - official **audit reports**
 - links to **official solvency reports** from various exchanges 
-- list of **Exchanges, Oracles and Auditors and Organizations that work on (provide) solvency** proofs solutions.
+- list of **Exchanges, Oracles, Auditors and Organizations that work on (provide) solvency** proofs solutions.
 - interesting **news-posts or social network threads** and posts (Reddit, Twitter, LinkedIn etc)
 - other **educational material**, including podcasts and blogposts
 - list of **known attacks or insolvent cases**.
