@@ -1,7 +1,7 @@
 # solvency-proofs
 
 ### Latest updates:
-- Dec 1st, 2022: audit report for Binance's Proof of Reserve's solution has been uploaded. TL;DR 4 vulnerabilities and 3 other privacy, trust and optimization issues have been reported. See the full report [here](/audits/audit_reports/Binance_PoR_by_MystenLabs_Nov_28_2022.pdf).
+- Dec 1st, 2022: a report on Binance's Proof of Reserve's solution has been uploaded. TL;DR 4 vulnerabilities and 3 other privacy, trust and optimization issues have been reported. See the full details [here](/audits/audit_reports/Binance_PoR_by_MystenLabs_Nov_28_2022.pdf).
   - Binance is already working with their auditor and cryptography experts to address feedback and they try to improve in the subsequent versions of their PoR system.
 
 ## Goal
